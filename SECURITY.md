@@ -1,21 +1,37 @@
-# Security Policy
+# Security Policy — Valorium X
 
 ## Supported Versions
+Valorium X is under active development.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+| Version / Branch | Supported |
+|------------------|-----------|
+| `main` (latest)  | ? Yes    |
+| Older commits / forks | ? No |
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+> When official releases are published, this table will be updated to reflect supported release lines.
 
 ## Reporting a Vulnerability
+Please report security issues **privately** and do **not** open a public GitHub Issue for sensitive reports.
 
-Use this section to tell people how to report a vulnerability.
+Email: **security@valoriumx.com**
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Include as much detail as possible:
+- Summary of the issue and potential impact
+- Steps to reproduce (safe, minimal proof of concept)
+- Affected component(s) and commit hash (if known)
+- Any suggested fix or mitigation
+
+## Response Timeline (Targets)
+We aim to:
+- Acknowledge reports within **72 hours**
+- Provide an initial assessment within **7 days**
+- Share a remediation plan and/or fix as soon as reasonably possible depending on severity
+
+## Coordinated Disclosure
+We support coordinated vulnerability disclosure. Please allow reasonable time for investigation and remediation before any public disclosure.
+
+## Safe Harbor
+We will not pursue legal action against researchers acting in good faith who:
+- Avoid privacy violations, data destruction, and service disruption
+- Do not exploit vulnerabilities beyond what is necessary to demonstrate impact
+- Report issues responsibly using the process above
