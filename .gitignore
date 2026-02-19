@@ -1,21 +1,14 @@
-<<<<<<< HEAD
-__pycache__/
-*.pyc
-.env
-*.log
-.DS_Store
-=======
 # ===========================================
 # Node / JS / Python dev tools
 # ===========================================
 node_modules/
+__pycache__/
+*.pyc
 .env
 *.log
-*.pyc
-__pycache__/
 
 # ===========================================
-# Fichiers systÃ¨me et temporaires (OS & Ã©diteurs)
+# Fichiers système et temporaires (OS & éditeurs)
 # ===========================================
 # macOS
 .DS_Store
@@ -26,10 +19,12 @@ __pycache__/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+.vs/
 
-# Linux / Vim / autres Ã©diteurs
+# Linux / Vim / autres éditeurs
 *.swp
 *~
+
 # VSCode & JetBrains
 .vscode/
 .idea/
@@ -44,14 +39,15 @@ tmp/
 temp/
 
 # ===========================================
-# Fichiers de build et de dÃ©pendances
-# (dÃ©commente si utilisÃ©)
+# Fichiers de build et de dépendances
+# (décommente si utilisé)
 # dist/
 # build/
 # target/
+# ===========================================
 
 # ===========================================
-# Python spÃ©cifiques
+# Python spécifiques
 # ===========================================
 *.egg-info/
 *.egg
@@ -59,8 +55,5 @@ dist/
 build/
 
 # ===========================================
-# Autres fichiers spÃ©cifiques Ã  votre environnement
+# Autres fichiers spécifiques à votre environnement
 # ===========================================
->>>>>>> 6456663973195933802c5f5b0dccca6a42742a49
-.vs/ 
-.vs/ 
