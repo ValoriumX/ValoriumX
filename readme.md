@@ -10,7 +10,7 @@
 ## What this repository is
 This repository hosts the **Valorium X Core** — a reference implementation and research track for an L1 protocol powered by **VIC (Valorium Incentivized Consensus)**.
 
-> ⚠️ **Not financial advice.** This repository and related documents are for research, engineering, and community collaboration.
+> ⚠️ This project is experimental open-source software under active development. Nothing in this repository constitutes financial advice, investment solicitation, or a promise of returns. Tokens described herein are conceptual and may never hold monetary value. Participation carries risk, including total loss.
 
 ## Core principles (high-level)
 - 🧬 **Double Helix Ledger** — bio-inspired data structure concept

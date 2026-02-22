@@ -45,7 +45,7 @@ Valorium X is a sovereign, open, resilient protocol designed to provide trust, v
 
 1. **Ledger Inviolability** : Append-only, never modifiable or erasable history.
 2. **User Sovereignty** : Total control over keys, assets, and identity.
-3. **Proof of Useful Work** : Only genuinely useful computation is rewarded.
+3. **Proof of Useful Work** : Only genuinely useful computation contributes to consensus.
 4. **Collective Defense** : Automatic detection/sanction for attacks or abuse, with public, auditable rules.
 5. **Full Transparency** : All code, rules, and transactions are verifiable, with no backdoors.
 6. **Community Evolution** : All changes require the VIP process, public debate, and qualified voting.
@@ -72,8 +72,8 @@ To replace the energy waste of classic PoW with a model where every computation 
 
 ### How?
 - Nodes receive beneficial tasks, validated by the community
-- Only verified, valuable work is rewarded
-- Incentives are aligned with real value created
+- Only verified, valuable work contributes to block validation
+- Participation is aligned with real value created
 
 ---
 
@@ -156,11 +156,11 @@ To replace the energy waste of classic PoW with a model where every computation 
 
 ## 14. Roadmap & Milestones
 
-- **2024** : Research, conceptualization, prototyping of core models
-- **2025** : Testnet, core modules, PoC Neural Node, Optical Matrix, technical docs
-- **2026** : Open source, community building, regulatory engagement, iterations
-- **2027** : Audits, tokenomics/governance finalization, validator onboarding, wallet/UI dev
-- **2028** : Mainnet launch, grants, integrations, expansion of use cases
+- **Phase 1** : Research, conceptualization, prototyping of core models
+- **Phase 2** : Testnet, core modules, technical documentation
+- **Phase 3** : Open source, community building, regulatory engagement
+- **Phase 4** : Audits, governance finalization, validator onboarding
+- **Phase 5** : Mainnet launch, integrations, expansion of use cases
 
 ---
 

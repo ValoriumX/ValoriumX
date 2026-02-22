@@ -79,8 +79,7 @@ Phase 1 :
 - ✔️ simulations & validation
 - ❗ DAO, testnet, Rust SDK officiel : **à venir**
 
-Page ticker : **https://vqxai.com/**  
-> Si un “flux”/prix est affiché, le considérer comme **simulation/placeholder** tant qu’il n’y a pas d’annonce officielle.
+Page ticker : **https://vqxai.com/**
 
 ---
 
