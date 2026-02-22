@@ -35,21 +35,10 @@ You can buy it, hold it, trade it, or use it to access services.
 ## 🎯 Who Is This For?
 
 - 🧠 **The Curious** — Want to understand the future without jargon? You’re welcome.
-- 💸 **The Investor** — Love being early in revolutions? You’re right on time.
 - 🔧 **The Builder** — Want to develop without limits? This is your frontier.
-- 🔌 **The Contributor (Miner)** — Run your machine, help the network, get rewarded.
-- 🔐 **The Staker** — Lock tokens, secure the protocol, earn passive rewards.
+- 🔌 **The Contributor (Miner)** — Run your machine and help the network.
+- 🔐 **The Staker** — Lock tokens and help secure the protocol.
 - 🤨 **The Skeptic** — You doubt? Good. Testing ideas makes us stronger.
-
----
-
-## 🍕 [Remember the Bitcoin Pizza Day](https://en.wikipedia.org/wiki/Bitcoin_Pizza_Day)
-
-On **May 22, 2010**, someone paid **10,000 BTC for two pizzas**.  
-Today, that’s worth over a billion dollars.
-
-Back then, **no one believed in Bitcoin**.  
-What if this time, you were early?
 
 ---
 
@@ -80,14 +69,6 @@ What if this time, you were early?
 
 > ✅ For official communication, always refer to the links above.
 
-
----
-
-## 🚀 Ready to Launch?
-
-> Don’t be the person who says in 10 years:  
-> **“If only I’d known…”**  
-> Be ahead of the curve. Be ready. **Become Valorium.**
 
 ---
 

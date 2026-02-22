@@ -78,39 +78,22 @@ Tu peux l’acheter, la garder, l’échanger, ou t’en servir pour accéder à
 Que tu sois grand débutant ou simplement curieux, Valorium X a quelque chose à t’offrir :
 
 * 🧠 **Le Curieux** → Tu veux juste apprendre. On t’explique tout.
-* 💸 **L’Investisseur** → Tu crois aux opportunités précoces. Valorium X démarre à peine.
 * 🔧 **Le Bâtisseur** → Tu veux créer des applis sur une blockchain boostée à l’IA.
-* 🔌 **Le Contributeur (Mineur)** → Tu veux soutenir le réseau et gagner des récompenses.
-* 🔐 **Le Staker** → Tu bloques tes tokens et tu gagnes un revenu passif.
-* 🧾 **Le Holder** → Tu gardes simplement tes tokens, et tu regardes leur valeur grimper.
+* 🔌 **Le Contributeur (Mineur)** → Tu veux soutenir le réseau par ta participation.
+* 🔐 **Le Staker** → Tu bloques tes tokens pour aider à sécuriser le réseau.
 * 🤨 **Le Sceptique** → Tu doutes ? Tu n’es pas seul. Bitcoin faisait rire tout le monde au début.
 
-## 🍕 Tu connais le Bitcoin Pizza Day ?
-
-Le **22 mai 2010**, quelqu’un a payé **10 000 BTC pour deux pizzas**.  
-Aujourd’hui, ça vaudrait plus d’un milliard de dollars.
-
-À l’époque, **personne ne croyait au Bitcoin**.  
-Et si, cette fois, tu étais là au bon moment ?
-
 ## 🧭 Que faire avec Valorium X ?
-
-### 💸 Pour les investisseurs
-
-* Acheter du Valorium X tôt, pendant que le prix est bas.
-* Garder pour accompagner la croissance du réseau.
-* Staker pour générer un revenu passif.
 
 ### ⛏️ Pour les contributeurs (mineurs)
 
 * Apporter de la puissance de calcul utile au réseau.
-* Être récompensé en Valorium X — sans gaspiller d’énergie.
+* Participer au fonctionnement de la blockchain — sans gaspiller d’énergie.
 
 ### 🔐 Pour les stakers
 
 * Bloquer tes tokens.
 * Aider à sécuriser le réseau.
-* Recevoir des récompenses régulières.
 
 ### 👥 Pour les curieux
 
@@ -131,13 +114,12 @@ Et si, cette fois, tu étais là au bon moment ?
 
 Il sert à :
 
-* Récompenser les contributeurs 🏆
+* Participer au fonctionnement du réseau 🏆
 * Sécuriser le réseau 🛡️
-* Payer des services ⚙️
+* Accéder à des services ⚙️
 * Participer à la gouvernance 🗳️
-* Acheter et vendre via notre **future place de marché intégrée** — sans passer par une plateforme centralisée 🛍️
 
-> Au lancement, le staking sera **proportionnel à l’utilité réelle du réseau**, modèle inspiré par Axie Infinity.
+> Le mécanisme de staking sera proportionnel à l’activité réelle du réseau.
 
 ➡️ [Voir la section Tokenomics dans le Whitepaper](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md#tokenomics)
 
@@ -150,14 +132,6 @@ Tu arrives au bon moment — l’aventure commence à peine.
 * 📖 [Lire le Whitepaper complet](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)
 * 💬 Rejoins la communauté (Discord bientôt)
 * 🧩 [Découvre le code sur GitHub](https://github.com/SylverbladeX/ValoriumX)
-
----
-
-## 🚀 Prêt à te lancer ?
-
-Ne sois pas celui qui dira *“Si seulement j’avais…”* dans 10 ans.  
-Sois précurseur. Sois prêt. Sois **Valorium**.
-
 ### 🧬 Explore le code  
 Découvre comment tout s’imbrique.  
 🧩 [Voir le dépôt GitHub](https://github.com/SylverbladeX/ValoriumX)  

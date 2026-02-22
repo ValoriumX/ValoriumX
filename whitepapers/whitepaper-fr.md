@@ -45,7 +45,7 @@ Valorium X est un protocole souverain, ouvert et résilient, conçu pour offrir 
 
 1. **Inviolabilité du registre** : historique append-only, jamais modifiable ni effaçable.
 2. **Souveraineté utilisateur** : contrôle total de ses clés, actifs et identité.
-3. **Preuve de Travail Utile** : seuls les calculs réellement utiles sont récompensés.
+3. **Preuve de Travail Utile** : seuls les calculs réellement utiles contribuent au consensus.
 4. **Défense collective** : détection/sanction automatique des attaques ou abus, règles publiques et auditées.
 5. **Transparence totale** : tout le code, les règles et transactions sont vérifiables, sans porte dérobée.
 6. **Évolution communautaire** : toute modification passe par la procédure VIP, débat public et vote qualifié.
@@ -72,8 +72,8 @@ Remplacer le gaspillage énergétique de la PoW classique par une approche où c
 
 ### Comment ?
 - Les nœuds reçoivent des tâches bénéfiques, validées par la communauté
-- Seuls les travaux vérifiés et pertinents sont récompensés
-- Les incitations sont alignées sur la valeur réelle produite
+- Seuls les travaux vérifiés et pertinents contribuent à la validation des blocs
+- La participation est alignée sur la valeur réelle produite
 
 ---
 
@@ -149,18 +149,20 @@ Remplacer le gaspillage énergétique de la PoW classique par une approche où c
 ## 13. Tokenomics & Incitations
 
 - **Allocation initiale transparente** : sans préminage abusif
-- **Staking & PoUW** : récompenses liées au travail utile ou à la délégation sécurisée
-- **Système d’incitation aligné sur l’intérêt collectif et la pérennité du réseau**
+- **Staking & PoUW** : participation liée au travail utile ou à la délégation sécurisée
+- **Mécanisme aligné sur l’intérêt collectif et la pérennité du réseau**
+
+> ⚠️ Aucun rendement financier n’est garanti. La participation comporte des risques.
 
 ---
 
 ## 14. Feuille de route & étapes clés
 
-- **2024** : Recherche, conceptualisation, prototypage des modèles centraux
-- **2025** : Testnet, modules cœur, PoC Neural Node, Optical Matrix, docs techniques
-- **2026** : Open source, construction de la communauté, engagement réglementaire, itérations
-- **2027** : Audits, finalisation tokenomics/gouvernance, onboarding validateurs, dev wallet/UI
-- **2028** : Lancement mainnet, grants, intégrations, expansion des cas d’usage
+- **Phase 1** : Recherche, conceptualisation, prototypage des modèles centraux
+- **Phase 2** : Testnet, modules cœur, documentation technique
+- **Phase 3** : Open source, construction de la communauté, engagement réglementaire
+- **Phase 4** : Audits, finalisation gouvernance, onboarding validateurs
+- **Phase 5** : Lancement mainnet, intégrations, expansion des cas d’usage
 
 ---
 
